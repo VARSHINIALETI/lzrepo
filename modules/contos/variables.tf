@@ -1,0 +1,5 @@
+
+variable "managementgroup" {
+  type = string
+ 
+}
